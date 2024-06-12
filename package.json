@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./server/index.js"
   },
-  "author": "Eric Lewin",
+  "author": "Andrew Evans",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.19.2",
